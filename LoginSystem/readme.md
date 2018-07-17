@@ -1,28 +1,30 @@
-# ƒƒOƒCƒ“ƒVƒXƒeƒ€
+# ãƒ­ã‚°ã‚¤ãƒ³ã‚·ã‚¹ãƒ†ãƒ   
+  
+## ä½¿ç”¨è¨€èªž  
+HTML,CSS, PHP  
+  
+## èª¬æ˜Ž  
+ç´ ã®PHPã§ã€ã‚¢ã‚«ã‚¦ãƒ³ãƒˆç™»éŒ²ã®å¯èƒ½ãªã‚·ã‚¹ãƒ†ãƒ ã‚’æ§‹ç¯‰ã—ã¦ã¿ã¾ã—ãŸã€‚  
+  
+** æ³¨æ„ **  
+ã“ã®ã‚·ã‚¹ãƒ†ãƒ ã¯XAMPPã‚’åˆ©ç”¨ã—ã¦ã„ã¾ã™ã€‚  
+é–²è¦§ã™ã‚‹ã«ã¯ã€XAMPPã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã—ã€  
+* login_systemã‚’xampp/htdocs/ã«å…¥ã‚Œã‚‹  
+* XAMPPã‚’èµ·å‹•ã—ã€mysqlã‚³ãƒžãƒ³ãƒ‰ã§dump.sqlã‚’ãƒªã‚¹ãƒˆã‚¢ã™ã‚‹  
 
-## Žg—pŒ¾Œê
-HTML,CSS, PHP
-
-## à–¾
-‘f‚ÌPHP‚ÅAƒAƒJƒEƒ“ƒg“o˜^‚Ì‰Â”\‚ÈƒVƒXƒeƒ€‚ð\’z‚µ‚Ä‚Ý‚Ü‚µ‚½B
-
-** ’ˆÓ **
-‚±‚ÌƒVƒXƒeƒ€‚ÍXAMPP‚ð—˜—p‚µ‚Ä‚¢‚Ü‚·B
-‰{——‚·‚é‚É‚ÍAXAMPP‚ðƒCƒ“ƒXƒg[ƒ‹‚µA
-* login_system‚ðxampp/htdocs/‚É“ü‚ê‚é
-* XAMPP‚ð‹N“®‚µAmysqlƒRƒ}ƒ“ƒh‚Ådump.sql‚ðƒŠƒXƒgƒA‚·‚é
-‚Æ‚¢‚¤ì‹Æ‚ðs‚¤•K—v‚ª‚ ‚è‚Ü‚·B
-
-‚Ü‚½Aƒf[ƒ^ƒx[ƒX‚ÉŠÖ‚µ‚Ä‚Í
-* ƒf[ƒ^ƒx[ƒX–¼
-  * "login_system"
-* ƒzƒXƒg–¼
-  * "127.0.0.1"
-* ƒ†[ƒU[–¼
-  * "root"
-* ƒpƒXƒ[ƒh
-  * ""
-* •¶ŽšƒR[ƒh
-  * "utf8"
-ˆÈã‚Ì’l‚ªÝ’è‚³‚ê‚Ä‚¢‚Ü‚·B
-•ÏX‚·‚é‚É‚ÍAlogin_system/useful_tools.php“à‚ÌUserTableƒNƒ‰ƒX‚É‚ ‚é’è”‚ð˜M‚é•K—v‚ª‚ ‚è‚Ü‚·B
+ã¨ã„ã†ä½œæ¥­ã‚’è¡Œã†å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚  
+  
+ã¾ãŸã€ãƒ‡ãƒ¼ã‚¿ãƒ™ãƒ¼ã‚¹ã«é–¢ã—ã¦ã¯  
+* ãƒ‡ãƒ¼ã‚¿ãƒ™ãƒ¼ã‚¹å  
+  * "login_system"  
+* ãƒ›ã‚¹ãƒˆå  
+  * "127.0.0.1"  
+* ãƒ¦ãƒ¼ã‚¶ãƒ¼å  
+  * "root"  
+* ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰  
+  * ""  
+* æ–‡å­—ã‚³ãƒ¼ãƒ‰  
+  * "utf8"  
+  
+ä»¥ä¸Šã®å€¤ãŒè¨­å®šã•ã‚Œã¦ã„ã¾ã™ã€‚  
+å¤‰æ›´ã™ã‚‹ã«ã¯ã€login_system/useful_tools.phpå†…ã®UserTableã‚¯ãƒ©ã‚¹ã«ã‚ã‚‹å®šæ•°ã‚’å¼„ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚
